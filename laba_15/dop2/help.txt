@@ -1,0 +1,10 @@
+cout<<"text";
+cin>>text;
+strlen(value);
+#include<library> or "modul"
+if(condition){...}
+if(...){...} if else(condition){...}
+if(...){...} else{...}
+system("comand");
+while(condition){...}
+for(date;condition;step-by-step action){...}

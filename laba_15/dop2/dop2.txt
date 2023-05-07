@@ -1,0 +1,10 @@
+cout
+cin
+strlen
+include
+if
+if else
+else
+system
+while
+for
